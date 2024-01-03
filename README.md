@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pattiya Apiratmontree
-- 👀 I’m interested in Front-end Develop.
-- 🌱 I’m recently graduated from Computer Engineering, CMU.
+- 👀 I’m interested in Full-Stack Developer position.
+- 🌱 I’m a graduated with a Computer Engineering degree at Chiang Mai University, Thailand.
 - 📫 How to reach me FB: https://www.facebook.com/jeanpattiya/
 
 <!---
